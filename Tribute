@@ -15,15 +15,18 @@
 <main id="main">
   <body>
     <div id="img-id">
-    <figure>
-      <img id="image" src="https://images.wsj.net/im-13919/IM" alt="farm fresh eggs"><figcaption="image-caption"> A buttload of eggs right?</figcaption>/>
-     </figure>
+      <figure>
+      <img id="image" src="https://images.wsj.net/im-13919/IM" alt="farm fresh eggs"><figcaption id="image-caption"> A buttload of eggs right?</figcaption>/>
+      </figure>
     </div>
     <article>
+      <h3> Facts about Eggs</h3>
     </article>
     <article>
+      <h3> <i>Actual</i> facts about Eggs</h3>
     </article>
     <article>
+      <h3> Bro-science</h3>
     </article>
   </body>
 </main>

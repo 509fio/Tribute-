@@ -1,10 +1,26 @@
 <!doctype html>
-
+<html>
 <html lang="en">
 
 <head>
+  <style>
+  </style>
 </head>
 
+<header>
+  <h1 id="title">A tribute to Eggs</h1> 
+  <h5> Miracle food or just periods?</h5>
+</header>
 
-<body>
-</body>
+<main id="main">
+  <body>
+    <div id="img-id">
+      <img src="https://images.wsj.net/im-13919/IM" alt="farm fresh eggs"/>
+    </div>
+  </body>
+</main>
+
+<footer>
+    <p> Made by <em>509</em></p>
+    <p> Contact info: <a href="mailto: 509fio@gmail.com"> 509fio</a></p>
+</footer>

@@ -15,7 +15,9 @@
 <main id="main">
   <body>
     <div id="img-id">
-      <img src="https://images.wsj.net/im-13919/IM" alt="farm fresh eggs"/>
+    <figure>
+      <img id="image" src="https://images.wsj.net/im-13919/IM" alt="farm fresh eggs"><figcaption> A buttload of eggs right?</figcaption>/>
+     </figure>
     </div>
   </body>
 </main>

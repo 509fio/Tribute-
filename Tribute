@@ -4,10 +4,6 @@
 
 <head>
   <style>
-  *{
-     margin:20px auto;
-}
-
    html, body{
     text-align:center;
 }

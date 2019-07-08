@@ -12,7 +12,7 @@
     text-align:center;
 }
   .responsive {
-   width: 50%;
+   max-width: 100%;
    height: auto;
 }
   </style>

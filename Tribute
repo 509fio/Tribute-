@@ -8,10 +8,13 @@
      margin:20px auto;
 }
 
-html, body{
-     text-align:center;
+   html, body{
+    text-align:center;
 }
-    
+  .responsive {
+   width: 100%;
+   height: auto;
+}
   </style>
 </head>
 
@@ -24,7 +27,7 @@ html, body{
   <body>
     <div id="img-id">
       <figure>
-      <img id="image" src="https://images.wsj.net/im-13919/IM" width="800px" height="500px" alt="farm fresh eggs"><figcaption id="image-caption" class="center2"> A buttload of eggs right?</figcaption>
+      <img id="image" src="https://images.wsj.net/im-13919/IM" width="800px" height="500px" class="responsive" alt="farm fresh eggs"><figcaption id="image-caption" class="center2"> A buttload of eggs right?</figcaption>
       </figure>
     </div>
     <article id="tribute-info">

@@ -14,12 +14,15 @@
   h1 {
   font-size: 4em;
 }
+
+  background {
+  background-image: 
   </style>
 </head>
 
 <header>
   <h1 id="title">A tribute to Eggs</h1> 
-  <h5> Miracle food or just periods?</h5>
+  <h3> Miracle food or just periods?</h3>
 </header>
 
 <main id="main">

@@ -5,11 +5,14 @@
 <head>
   <style>
    html, body{
-    text-align:center;
+   text-align:center;
 }
   .responsive {
    max-width: 100%;
    height: auto;
+}
+  h1 {
+  font-size: 4em;
 }
   </style>
 </head>
@@ -27,13 +30,13 @@
       </figure>
     </div>
     <article id="tribute-info">
-      <h3> About Eggs</h3>
+      <h2> About Eggs</h2>
         <p>Eggs are the ovum of many different species such as birds, reptiles, some pokemon and weird ass platypi. Platypus' are cool and stuff but really like a few different animals
         put together. Cool thing about them though is their eggs are not butt/vag/pee eggs they are just vag eggs. Pretty cool. You should NOT have an army of platypus to lay 
         eggs for you. They are poisonous and kind of like a Psyduck.</p>
     </article>
     <article>
-      <h3> Nutritional facts about Eggs</h3>
+      <h2> Nutritional facts about Eggs</h2>
         <ul>
           <li> Protein - 6g of the cleanest vegetarian protein ever</li>
           <li> Fat - 6g of high quality vegetarian fat...yes vegetarian, fat Chad go buy another visor</li>
@@ -42,7 +45,7 @@
         </ul>  
     </article>
     <article>
-      <h3> Bro-science</h3>
+      <h2> Bro-science</h2>
         <p> Eggs are the breast. The yolk is like a multi-vitamin and they are a cholesterol bomb which is definitely good for the wedding tackle. 
         An unlimited way to prepare them that are all delicious so you kinda of suck if you don't like eggs. Chickens were gonna perionate them shits anyway so why not eat them? 
         They remain one of the few foods you can eat in its entirety in any state (including shell) so long as you trust the overall quality of your eggs. Raw with warm milk and honey
@@ -55,7 +58,7 @@
     <a href="https://www.buzzfeed.com/genamourbarrett/fuck-yo-breakfast" target="_blank"> Here's some opinions from people that are wrong</a>
    </section>
    <section><a href="https://www.eatthis.com/egg-facts/" target="_blank"> This one deserves an awkward side hug</a></section>
-   <section><a href="https://www.urbandictionary.com/define.php?term=2%20hard%20boiled%20eggs%20in%20a%20tube%20sock">Hard boiled eggs in a tube sock</a>
+   <section><a href="https://www.urbandictionary.com/define.php?term=2%20hard%20boiled%20eggs%20in%20a%20tube%20sock" target="_blank">Hard boiled eggs in a tube sock</a>
 </main>
 
 

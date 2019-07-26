@@ -7,6 +7,11 @@
    html, body{
    text-align:center;
 }
+    body {
+    background-image: url("http://66.media.tumblr.com/8a803b68b73ed0d1103cedb03b2ee296/tumblr_ndtb1suzZC1s29x8lo1_1280.jpg");
+    opacity: 
+    }
+    
   .responsive {
    max-width: 100%;
    height: auto;
@@ -17,9 +22,8 @@
   ul {
   list-style-position: inside;
   padding-left: 0;
-}
-  background {
-  background-image: 
+} 
+  
   </style>
 </head>
 

@@ -14,7 +14,10 @@
   h1 {
   font-size: 4em;
 }
-
+  ul {
+  list-style-position: inside;
+  padding-left: 0;
+}
   background {
   background-image: 
   </style>
